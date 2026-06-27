@@ -1,0 +1,47 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Dados e cache
+cache/
+browser_profiles/
+products.json
+logs/
+*.log
+postgres_data/
+redis_data/
+instances/
+
+# Imagens temporárias
+images/
+*.jpg
+*.png
+*.webp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp

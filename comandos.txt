@@ -1,0 +1,5 @@
+# gera os posts da shopee e da amazon
+python -m src.post_generator
+
+# envia para o grupo do whatsapp os posts gerados anteriormente
+python send_only.py --input posts_manuais.txt
