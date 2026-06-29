@@ -48,3 +48,7 @@ desktop.ini
 
 # Configurações com dados sensíveis
 config/settings.json
+
+# Arquivos de dados temporários
+ofertas.txt
+posts_manuais.txt
