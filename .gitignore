@@ -45,3 +45,6 @@ desktop.ini
 # Arquivos temporários
 *.tmp
 *.temp
+
+# Configurações com dados sensíveis
+config/settings.json

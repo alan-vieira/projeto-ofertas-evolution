@@ -1,0 +1,12 @@
+{
+  "evolution_api_url": "http://localhost:8080",
+  "evolution_api_key": "SUA_API_KEY_AQUI",
+  "whatsapp_group_jid": "SEU_JID_AQUI",
+  "redis_host": "localhost",
+  "redis_port": 6379,
+  "postgres_host": "localhost",
+  "postgres_port": 5432,
+  "postgres_user": "SEU_USUARIO",
+  "postgres_password": "SUA_SENHA",
+  "postgres_db": "evolution_db"
+}
