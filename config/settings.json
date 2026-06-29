@@ -2,7 +2,7 @@
   "evolution": {
     "api_url": "http://localhost:8080",
     "instance_name": "VendaBot",
-    "api_key": "77416F2E2387-4E81-B1AA-2AC53DA756CA",
+    "api_key": "Lavgw8hnn64JiabaGTz8NHM5VRzHLdMu",
     "timeout_seconds": 60,
     "max_retries": 3
   },
